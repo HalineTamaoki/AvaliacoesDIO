@@ -1,16 +1,18 @@
-# firstapp
+# Aplicativo de cronômetro
+Esse projeto foi desenvolvido para praticar a programação com Flutter. Também foi o meu primeiro Aplicativo.
 
-A new Flutter project.
+## Como executar
+A fim de executar corretamente, siga os passos abaixo:
 
-## Getting Started
+1. No terminal execute
+``` 
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+2. Selecione em qual dispositivo você deseja executar. Caso queira executar em um dispositivo móvel, será necessário conectar um dispositivo físico ou criar um emulador.
+Também é possível rodar já escolhendo o dispositivo com o código:
+``` 
+flutter run -d {navegador}
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Espero que gostem! 😃 
